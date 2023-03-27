@@ -130,3 +130,29 @@ h2 {
 
 /* third section*/
 
+.third-section {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F3927;
+    text-align: center;
+}
+
+.p-third {
+    font-size: 18px;
+    text-align: end;
+}
+
+#p-div {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 300px;
+}
